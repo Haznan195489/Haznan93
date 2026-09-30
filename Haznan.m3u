@@ -1,16 +1,16 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Malaysia",RTM TV1
-https://samsam123.name.my
+https://samsam123.name.mym3u8
 
 #EXTINF:-1 group-title="Malaysia",RTM TV2
-https://samsam123.name.my
+https://samsam123.name.mym3u8
 
 #EXTINF:-1 group-title="Malaysia",RTM TV6
-https://samsam123.name.my
+https://samsam123.name.mym3u8
 
 #EXTINF:-1 group-title="Malaysia",RTM Sukan
-https://samsam123.name.my
+https://samsam123.name.my.m3u8
 
 #EXTINF:-1 group-title="Malaysia",Astro Awani (Berita)
 http://playback01.aotg-video.astro.com.my/AWANI/master.m3u8
